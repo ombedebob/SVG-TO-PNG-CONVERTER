@@ -1,5 +1,3 @@
-# SVG-TO-PNG-CONVERTER
-
 # svg2png
 
 `svg2png` is a simple web-based application that allows users to upload an SVG file and download it as a PNG image. The project is built with HTML, CSS, and JavaScript, providing a straightforward interface for converting SVGs to PNGs directly in the browser.
@@ -20,17 +18,6 @@ This project was developed using the following technologies:
 ## Development
 
 The project was developed using the **Spck Mobile Code Editor**, a mobile-based code editor that allows for rapid development and testing of web projects. 
-
-## Screenshots
-
-![HTML](https://via.placeholder.com/150?text=HTML)
-*HTML Structure*
-
-![CSS](https://via.placeholder.com/150?text=CSS)
-*CSS Styling*
-
-![JavaScript](https://via.placeholder.com/150?text=JavaScript)
-*JavaScript Functionality*
 
 ## How to Use
 
